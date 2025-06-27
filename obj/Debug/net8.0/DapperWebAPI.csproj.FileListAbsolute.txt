@@ -1,0 +1,251 @@
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWebAPI.csproj.AssemblyReference.cache
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWebAPI.AssemblyInfoInputs.cache
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWebAPI.AssemblyInfo.cs
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWebAPI.csproj.CoreCompileInputs.cache
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWebAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWebAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\appsettings.Development.json
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\appsettings.json
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\DapperWebAPI.exe
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\DapperWebAPI.deps.json
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\DapperWebAPI.runtimeconfig.json
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\DapperWebAPI.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\DapperWebAPI.pdb
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Azure.Core.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Azure.Identity.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Dapper.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\System.ClientModel.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\System.Memory.Data.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.DapperWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.DapperWebAPI.props
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DapperWebAPI.props
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DapperWebAPI.props
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\scopedcss\bundle\DapperWebAPI.styles.css
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWe.198FF1CF.Up2Date
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWebAPI.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\refint\DapperWebAPI.dll
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWebAPI.pdb
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWebAPI.genruntimeconfig.cache
+F:\Codigo_Fonte_SistemasWeb\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\ref\DapperWebAPI.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWebAPI.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\refint\DapperWebAPI.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWebAPI.pdb
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\DapperWebAPI.staticwebassets.endpoints.json
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\DapperWebAPI.exe
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\DapperWebAPI.deps.json
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\DapperWebAPI.runtimeconfig.json
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\DapperWebAPI.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\DapperWebAPI.pdb
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Dapper.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWebAPI.csproj.AssemblyReference.cache
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWebAPI.AssemblyInfoInputs.cache
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWebAPI.AssemblyInfo.cs
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\scopedcss\bundle\DapperWebAPI.styles.css
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWe.198FF1CF.Up2Date
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWebAPI.genruntimeconfig.cache
+C:\Users\charl\Downloads\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\ref\DapperWebAPI.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWebAPI.csproj.AssemblyReference.cache
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWebAPI.AssemblyInfoInputs.cache
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWebAPI.AssemblyInfo.cs
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWebAPI.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\refint\DapperWebAPI.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWebAPI.pdb
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\DapperWebAPI.staticwebassets.endpoints.json
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\DapperWebAPI.exe
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\DapperWebAPI.deps.json
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\DapperWebAPI.runtimeconfig.json
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\DapperWebAPI.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\DapperWebAPI.pdb
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Dapper.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\scopedcss\bundle\DapperWebAPI.styles.css
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWe.198FF1CF.Up2Date
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\DapperWebAPI.genruntimeconfig.cache
+C:\Users\charl\OneDrive\Área de Trabalho\DapperWebAPI\DapperWebAPI\obj\Debug\net8.0\ref\DapperWebAPI.dll

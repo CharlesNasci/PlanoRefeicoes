@@ -1,0 +1,32 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio
+.vs/
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Environment settings
+.env
+
+# App settings secrets
+appsettings.Development.json
+appsettings.Local.json
+
+# SQLite/Local DB
+*.db
+*.sqlite
+
+# HTTP files used in REST Client extensions
+*.http
